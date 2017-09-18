@@ -12,9 +12,9 @@ body {
     color: #566b78;
   }
   footer {
-    background: #f5f7f9;
-    border-bottom: 1px solid #d8dee9;
-    color: #a7adba;
+    background: #7FB6EE;
+    border-bottom: 1px solid #021538;
+    color: #485573;
   }
 
   h1,
@@ -27,3 +27,17 @@ body {
       font-size: 30px }
   }
 
+  p {
+     padding-top: 50px;
+     padding-right: 30px;
+     padding-bottom: 50px;
+     padding-left: 80px;
+} 
+
+header { 
+    background-color: #25DEF2;
+}
+
+#fancy {
+    font-style: bold;
+} 
