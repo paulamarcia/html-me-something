@@ -1,6 +1,29 @@
 img {
      margin-top: 100px;
      margin-bottom: 100px;
-     margin-right: 200px;
+     margin-right: 100px;
      margin-left: 80px;
-} 
+}
+body {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  }
+
+  body {
+    color: #566b78;
+  }
+  footer {
+    background: #f5f7f9;
+    border-bottom: 1px solid #d8dee9;
+    color: #a7adba;
+  }
+
+  h1,
+  h2,
+  strong {
+    color: #A00B0B;
+  }
+
+  .different {
+      font-size: 30px }
+  }
+
